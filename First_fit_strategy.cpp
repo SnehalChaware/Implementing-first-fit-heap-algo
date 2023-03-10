@@ -1,4 +1,4 @@
-//Vikharankar Vishakha Chandrakant
+//Snehal Prakash Chaware
 #include <iostream>
 using namespace std;
 
